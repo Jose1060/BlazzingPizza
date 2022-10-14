@@ -6,7 +6,7 @@
   <!-- <a href="https://blazor.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Blazor Pizza</h1>
+<h1 align="center">Blazing Pizza</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Jose1060/blazor?color=56BEB8">
@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Tutorial obtenido de https://learn.microsoft.com/en-us/training/modules/interact-with-data-blazor-web-apps/1-introduction
+Tutorial obtenido de https://learn.microsoft.com/en-us/training/modules/use-pages-routing-layouts-control-blazor-navigation/1-introduction
 
 ## :sparkles: Features
 
