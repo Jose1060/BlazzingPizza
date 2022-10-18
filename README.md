@@ -81,7 +81,7 @@ $ docker run -it --rm -p 5200:80 --name pizzacontainer blz_pizza
 $ docker login -u YOUR-USER-NAME
 
 # Creamos el Tag
-$ docker tag pizza YOUR-USER-NAME/blz_pizza
+$ docker tag blz_pizza YOUR-USER-NAME/blz_pizza
 
 # Realizamos el Push
 $ docker push YOUR-USER-NAME/blz_pizza
